@@ -13,7 +13,7 @@ export default function HeroSection() {
         </p>
         <div className="flex space-x-4">
           <Link
-            href="mailto:leo@slick-site.com"
+            href="#contact"
             className="bg-white text-blue-600 px-6 py-3 rounded-lg shadow-lg hover:bg-gray-200 transition"
           >
             Schedule a FREE Consultation

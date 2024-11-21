@@ -156,7 +156,7 @@ const ContactCTASection = () => {
         <div className="mt-12">
           <p className="text-lg mb-4">Not ready yet? Let&apos;s schedule a quick consultation!</p>
           <Link
-            href="mailto:leo@slick-site.com"
+            href="mailto:asimba@surgemines.com"
             className="inline-block bg-teal-600 text-white py-2 px-6 rounded-lg font-semibold hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-teal-400 focus-visible:outline-none"
           >
             Schedule a Call

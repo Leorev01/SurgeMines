@@ -28,7 +28,7 @@ const TrustPilot = () => {
       data-style-height="52px"
       data-style-width="100%"
     >
-      <Link href="https://uk.trustpilot.com/review/slick-site.com" target="_blank" rel="noopener">
+      <Link href="https://uk.trustpilot.com/review/surgemines.com" target="_blank" rel="noopener">
         Trustpilot
       </Link>
     </div>

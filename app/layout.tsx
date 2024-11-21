@@ -16,23 +16,22 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "SlickSite – Professional Web Design Services",
+  title: "Surge Mines – Professional Lead Generation Services",
   description:
-    "SlickSite offers professional web design, branding, and digital solutions to help businesses grow. Transform your ideas into stunning websites with our expert services.",
-  keywords: "web design, branding, responsive websites, professional web design, digital solutions, web development",
-  authors: [{ name: "SlickSite Team" }],
+    "",
+  authors: [{ name: "Surge Mines Team" }],
   openGraph: {
-    title: "SlickSite – Professional Web Design Services",
+    title: "Surge Mines – Professional Lead Generation Services",
     description:
-      "Transform your ideas into stunning websites with SlickSite. Offering web design, branding, and digital solutions for businesses.",
-    url: "https://www.slick-site.com",
+      "",
+    url: "https://www.surgemines.com",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "SlickSite – Professional Web Design Services",
+    title: "Surge Mines – Professional Lead Generation Services",
     description:
-      "Transform your ideas into stunning websites with SlickSite. Offering web design, branding, and digital solutions for businesses.",
+      "",
   },
   robots: {
     index: true,
