@@ -27,7 +27,7 @@ const ContactCTASection = () => {
     setSubmitMessage('Submitting...');
   
     try {
-        const response = await fetch('/api/contact', {
+        const response = await fetch('https://www.surgemines.com//api/contact', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
